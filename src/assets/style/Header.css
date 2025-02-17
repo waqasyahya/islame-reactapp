@@ -1,0 +1,10 @@
+/* Make dropdown open on hover */
+.dropdown-hover:hover .dropdown-menu {
+    display: block;
+  }
+  
+  /* Prevent the caret from appearing */
+  .dropdown-hover .dropdown-toggle::after {
+    display: none;
+  }
+  

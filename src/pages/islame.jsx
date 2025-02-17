@@ -1,7 +1,4 @@
-function home() {
-    
-   return <h1>waqas</h1>
-    
-    
+function Home() {
+  return <h1>waqas islame</h1>;
 }
-export default home;
+export default Home;
